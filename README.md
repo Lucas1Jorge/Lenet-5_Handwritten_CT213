@@ -1,3 +1,3 @@
 # Lenet-5_Handwritten_CT213
 
-<img src="image/test_image_7316.png">
+<img src="image/test_image_7316.png" width="500" align="middle">
