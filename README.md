@@ -4,4 +4,4 @@
 <br>
 <img src="image/prediction_2.png" width="740" align="middle">
 <br>
-<img src="image/network_architecture.png" width="600" align="middle">
+<img src="image/network_architecture.png" width="515" align="middle">
